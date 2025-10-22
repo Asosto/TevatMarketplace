@@ -1,28 +1,27 @@
-# 🛍️ Tevat Marketplace
+# Tevat Marketplace
 
-A modern, real-time e-commerce platform built with Next.js, Supabase, and Tailwind CSS.
+e-commerce platform built with Next.js, Supabase, and Tailwind CSS.
 
-## ✨ Features
+## Features
 
-- 🛒 **Real-time Product Management** - Add, edit, delete products with instant updates
-- 🎨 **Modern UI/UX** - Beautiful, responsive design with glassmorphism effects
-- 🔐 **Admin Dashboard** - Complete product and order management system
-- 🛍️ **Shopping Cart** - Full cart functionality with local storage
-- 📱 **Mobile Responsive** - Works perfectly on all devices
-- ⚡ **Real-time Updates** - Changes sync instantly across all pages
-- 🎯 **Product Categories** - Organized by Laptops, Audio, Accessories, Gaming
-- 🔍 **Search & Filter** - Advanced product search and filtering
-- 📊 **Analytics Dashboard** - Order tracking and revenue statistics
+- **Real-time Product Management** - Add, edit, delete products with instant updates
+- **Modern UI/UX** - Beautiful, responsive design with glassmorphism effects
+- **Admin Dashboard** - Complete product and order management system
+- **Mobile Responsive** - Works perfectly on all devices
+- **Real-time Updates** - Changes sync instantly across all pages
+- **Product Categories** - Organized by Laptops, Audio, Accessories, Gaming
+- **Search & Filter** - Advanced product search and filtering
 
-## 🚀 Tech Stack
+
+## Tech Stack
 
 - **Frontend**: Next.js 15, React 18, TypeScript
 - **Styling**: Tailwind CSS, Framer Motion
 - **Database**: Supabase (PostgreSQL)
 - **UI Components**: Radix UI, Lucide React
-- **Deployment**: Vercel (recommended)
+- **Deployment**: Vercel 
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -52,7 +51,7 @@ A modern, real-time e-commerce platform built with Next.js, Supabase, and Tailwi
    npm run dev
    ```
 
-## 🎯 Usage
+## Usage
 
 ### **Customer Experience**
 - **Home Page** (`/`) - Featured products and company info
@@ -69,7 +68,7 @@ A modern, real-time e-commerce platform built with Next.js, Supabase, and Tailwi
   - Real-time statistics
   - Order status management
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### Products Table
 - `id` - Unique product identifier
@@ -93,7 +92,7 @@ A modern, real-time e-commerce platform built with Next.js, Supabase, and Tailwi
 - `created_at` - Order timestamp
 - `updated_at` - Last update timestamp
 
-## 🔧 Development
+## Development
 
 ### **Project Structure**
 ```
@@ -119,64 +118,10 @@ tevat-marketplace/
 - `AdminDashboard` - Admin management interface
 - `CartView` - Shopping cart functionality
 
-## 🚀 Deployment
 
-### **Vercel (Recommended)**
-1. Connect your GitHub repository to Vercel
-2. Set environment variables in Vercel dashboard
-3. Deploy automatically on every push
 
-### **Other Platforms**
-- **Netlify**: Connect GitHub repo and set environment variables
-- **Railway**: Deploy with database integration
-- **DigitalOcean**: Manual deployment with custom domain
 
-## 📱 Features Overview
-
-### **Customer Features**
-- ✅ Browse products by category
-- ✅ Search and filter products
-- ✅ Add products to cart
-- ✅ View product details
-- ✅ Responsive design
-- ✅ Fast loading
-
-### **Admin Features**
-- ✅ Product management (CRUD)
-- ✅ Order management
-- ✅ Real-time statistics
-- ✅ Inventory tracking
-- ✅ Order status updates
-- ✅ Revenue analytics
-
-## 🔒 Security
-
-- Environment variables for sensitive data
-- Supabase Row Level Security (RLS)
-- Input validation and sanitization
-- Secure authentication for admin access
-
-## 📈 Performance
-
-- Next.js 15 with App Router
-- Image optimization
-- Code splitting
-- Static generation where possible
-- Real-time updates with Supabase
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Next.js](https://nextjs.org/) - React framework
 - [Supabase](https://supabase.com/) - Backend as a Service
@@ -184,10 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/) - UI components
 - [Lucide React](https://lucide.dev/) - Icons
 
-## 📞 Support
-
-For support, email support@tevat.com or create an issue in this repository.
-
----
-
-**Built with ❤️ by the Tevat Team**
