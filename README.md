@@ -5,12 +5,12 @@ e-commerce platform built with Next.js, Supabase, and Tailwind CSS.
 ## Features
 
 - **Real-time Product Management** - Add, edit, delete products with instant updates
-- **Modern UI/UX** - Beautiful, responsive design with glassmorphism effects
+- **Modern UI/UX** 
 - **Admin Dashboard** - Complete product and order management system
 - **Mobile Responsive** - Works perfectly on all devices
 - **Real-time Updates** - Changes sync instantly across all pages
 - **Product Categories** - Organized by Laptops, Audio, Accessories, Gaming
-- **Search & Filter** - Advanced product search and filtering
+- **Search & Filter** - product search and filtering
 
 
 ## Tech Stack
